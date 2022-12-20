@@ -8,5 +8,8 @@
 
 # Work in progress
 - DNSSEC validation 
-- DoT/DoH Cert SCT (certificat-transparency) tracking, in addition or as replacement to keypin 
-- advanced caching (see paepcke.de/dnscache)
+- DoT/DoH Cert SCT (certificat-transparency) tracking, in addition / partial replacement for fixed keypins
+- advanced caching (see [paepcke.de/dnscache](https://paepcke.de/dnscache))
+
+# Dependencies
+- special thanks to Miek for the [dns](https://github.com/miekg/dns) package! 
