@@ -172,7 +172,7 @@ func (r *Resolver) Exchange(query string, raw, summary bool, rTypes []uint16) (*
 // IsReachable ...
 func (r *Resolver) IsReachable() bool {
 	err := r.IsFunctional()
-	return err == nil 
+	return err == nil
 }
 
 // IsFunctional ...
