@@ -41,17 +41,17 @@ const (
 //
 
 // fqdn ...
-func fqdn(name string) string {
-	l := len(name)
-	if l > 0 {
-		last := name[l-1]
-		if last == _dotRune {
-			return name
-		}
-		return name + _dot
-	}
-	return "empty.hostname"
-}
+// func fqdn(name string) string {
+// 	l := len(name)
+// 	if l > 0 {
+// 		last := name[l-1]
+// 		if last == _dotRune {
+// 			return name
+// 		}
+// 		return name + _dot
+// 	}
+// 	return "empty.hostname"
+// }
 
 // isFile ...
 func isFile(filename string) bool {
