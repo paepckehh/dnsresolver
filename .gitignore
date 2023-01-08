@@ -21,5 +21,4 @@
 Makefile
 doc
 vendor
-dnsresolver
 cmd/dnsresolver/dnsresolver
