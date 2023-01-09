@@ -1,7 +1,4 @@
-// package dnsresolver ...
 package dnsresolver
-
-// import section
 
 // type section
 type (

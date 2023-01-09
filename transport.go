@@ -1,4 +1,3 @@
-// package dnsresolver ...
 package dnsresolver
 
 import (

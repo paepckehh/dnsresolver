@@ -1,7 +1,5 @@
-// package dnsresolver
 package dnsresolver
 
-// import
 import (
 	"os"
 )
