@@ -18,6 +18,10 @@ Special thanks goes to:
 
 * Miek for the [dns](https://github.com/miekg/dns) package
 
+# DOCS
+
+[pkg.go.dev/paepcke.de/dnsresolver](https://pkg.go.dev/paepcke.de/dnsresolver)
+
 # CONTRIBUTION
 
 Yes, Please! PRs Welcome! 
