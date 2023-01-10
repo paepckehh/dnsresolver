@@ -10,7 +10,7 @@
 
 [] DNSSEC validation 
 [] DoT/DoH Cert SCT (certificat-transparency) tracking, in addition / partial replacement for fixed keypins
-[] advanced caching (see [paepcke.de/dnscache](https://paepcke.de/dnscache))
+[] advanced caching (see [paepcke.de/dnscache](https://paepcke.de/dnscache/))
 
 # EXTERNAL RESOURCES 
 
