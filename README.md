@@ -1,5 +1,5 @@
 # OVERVIEW
-[![Go Report Card](https://goreportcard.com/badge/paepcke.de/dnsresolver)](https://goreportcard.com/report/paepcke.de/dnsresolver)
+[![Go Reference](https://pkg.go.dev/badge/paepcke.de/dnsresolver.svg)](https://pkg.go.dev/paepcke.de/dnsresolver) [![Go Report Card](https://goreportcard.com/badge/paepcke.de/dnsresolver)](https://goreportcard.com/report/paepcke.de/dnsresolver)
 
 [paepche.de/dnsresolver](https://paepcke.de/dnsresolver/)
 
