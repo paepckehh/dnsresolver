@@ -1,4 +1,7 @@
 # OVERVIEW
+[![Go Report Card](https://goreportcard.com/badge/paepcke.de/dnsresolver)](https://goreportcard.com/report/paepcke.de/dnsresolver)
+
+[paepche.de/dnsresolver](https://paepcke.de/dnsresolver/)
 
 - Alternative DNS Resolver package with focus on security and speed
 - Provides many apis 100% plugin compatible with the golang stdlib net dns resolver, just import & change the prefix, done
