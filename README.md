@@ -1,5 +1,5 @@
 # OVERVIEW
-[![Go Reference](https://pkg.go.dev/badge/paepcke.de/dnsresolver.svg)](https://pkg.go.dev/paepcke.de/dnsresolver) [![Go Report Card](https://goreportcard.com/badge/paepcke.de/dnsresolver)](https://goreportcard.com/report/paepcke.de/dnsresolver)
+[![Go Reference](https://pkg.go.dev/badge/paepcke.de/dnsresolver.svg)](https://pkg.go.dev/paepcke.de/dnsresolver) [![Go Report Card](https://goreportcard.com/badge/paepcke.de/dnsresolver)](https://goreportcard.com/report/paepcke.de/dnsresolver) [![Go Build](https://github.com/paepckehh/dnsresolver/actions/workflows/golang.yml/badge.svg)](https://github.com/paepckehh/dnsresolver/actions/workflows/golang.yml)
 
 [paepche.de/dnsresolver](https://paepcke.de/dnsresolver/)
 
