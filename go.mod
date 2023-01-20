@@ -1,6 +1,6 @@
 module paepcke.de/dnsresolver
 
-go 1.21
+go 1.19
 
 require github.com/miekg/dns v1.1.50
 
