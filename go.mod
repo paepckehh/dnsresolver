@@ -2,7 +2,7 @@ module paepcke.de/dnsresolver
 
 go 1.20
 
-require github.com/miekg/dns v1.1.52
+require github.com/miekg/dns v1.1.53
 
 require (
 	golang.org/x/crypto v0.7.0 // indirect
