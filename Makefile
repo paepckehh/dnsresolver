@@ -10,4 +10,4 @@ deps:
 
 check: 
 	gofmt -w -s .
-	staticcheck
+	CGO_ENABLED=0 staticcheck
